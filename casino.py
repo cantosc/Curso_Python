@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 #Iniciamos numero secreto
 secret = 40
 
